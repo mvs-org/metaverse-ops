@@ -1,0 +1,24 @@
+{
+  "name": "metaverse-ops",
+  "version": "0.1.0",
+  "description": "OP codes for the Metaverse Blockchain",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canguruhh/metaverse-ops.git"
+  },
+  "keywords": [
+    "metaverse",
+    "blockchain",
+    "bitcoin"
+  ],
+  "author": "Sven Mutzl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canguruhh/metaverse-ops/issues"
+  },
+  "homepage": "https://github.com/canguruhh/metaverse-ops#readme"
+}
